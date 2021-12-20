@@ -1,0 +1,16 @@
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\obj\Debug\net5.0\LimbajeProiect.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\obj\Debug\net5.0\LimbajeProiect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\obj\Debug\net5.0\LimbajeProiect.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\obj\Debug\net5.0\LimbajeProiect.AssemblyInfo.cs
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\obj\Debug\net5.0\LimbajeProiect.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\bin\Debug\net5.0\LimbajeProiect.exe
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\bin\Debug\net5.0\LimbajeProiect.deps.json
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\bin\Debug\net5.0\LimbajeProiect.runtimeconfig.json
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\bin\Debug\net5.0\LimbajeProiect.runtimeconfig.dev.json
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\bin\Debug\net5.0\LimbajeProiect.dll
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\bin\Debug\net5.0\ref\LimbajeProiect.dll
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\bin\Debug\net5.0\LimbajeProiect.pdb
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\obj\Debug\net5.0\LimbajeProiect.dll
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\obj\Debug\net5.0\ref\LimbajeProiect.dll
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\obj\Debug\net5.0\LimbajeProiect.pdb
+C:\Users\alexa\source\repos\LimbajeProiect\LimbajeProiect\obj\Debug\net5.0\LimbajeProiect.genruntimeconfig.cache
