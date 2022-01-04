@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\source\\repos\\LimbajeProiect\\LimbajeProiect\\LimbajeProiect.csproj": {}
+    "D:\\curs3\\limbaje\\LFTProject\\LimbajeProiect\\LimbajeProiect\\LimbajeProiect.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\source\\repos\\LimbajeProiect\\LimbajeProiect\\LimbajeProiect.csproj": {
+    "D:\\curs3\\limbaje\\LFTProject\\LimbajeProiect\\LimbajeProiect\\LimbajeProiect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\source\\repos\\LimbajeProiect\\LimbajeProiect\\LimbajeProiect.csproj",
+        "projectUniqueName": "D:\\curs3\\limbaje\\LFTProject\\LimbajeProiect\\LimbajeProiect\\LimbajeProiect.csproj",
         "projectName": "LimbajeProiect",
-        "projectPath": "C:\\Users\\alexa\\source\\repos\\LimbajeProiect\\LimbajeProiect\\LimbajeProiect.csproj",
+        "projectPath": "D:\\curs3\\limbaje\\LFTProject\\LimbajeProiect\\LimbajeProiect\\LimbajeProiect.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\source\\repos\\LimbajeProiect\\LimbajeProiect\\obj\\",
+        "outputPath": "D:\\curs3\\limbaje\\LFTProject\\LimbajeProiect\\LimbajeProiect\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -130,6 +130,7 @@ namespace LimbajeProiect
             if (getCurrentSymbol == ')')
             {
                 ceva.Add(new AtomLexical(TipAtomLexical.ParantezaInchisaAtom, ")", null));
+                incrementIndex();
                 return ceva;
             }
             if(getCurrentSymbol=='=')
